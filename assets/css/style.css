@@ -563,26 +563,72 @@ ul.dropdown-menu li {
   color: #b9b9b9;
 }
 
-#module {
+#module1 {
   font-size: 1rem;
   line-height: 1.5;
 }
 
-#module #collapseExample.collapse:not(.show) {
+#module1 #collapseExample1.collapse:not(.show) {
   display: block;
   height: 3rem;
   overflow: hidden;
 }
 
-#module #collapseExample.collapsing {
+#module1 #collapseExample1.collapsing {
   height: 3rem;
 }
 
-#module a.collapsed::after {
+#module1 a.collapsed::after {
   content: '+ Show More';
 }
 
-#module a:not(.collapsed)::after {
+#module1 a:not(.collapsed)::after {
+  content: '- Show Less';
+}
+
+#module2 {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+#module2 #collapseExample2.collapse:not(.show) {
+  display: block;
+  height: 3rem;
+  overflow: hidden;
+}
+
+#module2 #collapseExample2.collapsing {
+  height: 3rem;
+}
+
+#module2 a.collapsed::after {
+  content: '+ Show More';
+}
+
+#module2 a:not(.collapsed)::after {
+  content: '- Show Less';
+}
+
+#module3 {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+#module3 #collapseExample3.collapse:not(.show) {
+  display: block;
+  height: 3rem;
+  overflow: hidden;
+}
+
+#module3 #collapseExample3.collapsing {
+  height: 3rem;
+}
+
+#module3 a.collapsed::after {
+  content: '+ Show More';
+}
+
+#module3 a:not(.collapsed)::after {
   content: '- Show Less';
 }
 
