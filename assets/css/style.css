@@ -414,7 +414,7 @@ a {
 }
 
 /*--
-	features-work Start 
+	features-work Start
 --*/
 #features-work {
   padding-top: 50px;
@@ -535,17 +535,17 @@ ul.dropdown-menu li {
 }
 
 .bg-1 {
-  background: url("/NGOProject/assets/img/11.jpg") no-repeat 50% 50%;
+  background: url("/assets/img/11.jpg") no-repeat 50% 50%;
   background-size: cover;
 }
 
 .bg-2 {
-  background: url("/NGOProject/assets/img/home-5.jpg");
+  background: url("/assets/img/home-5.jpg");
   background-size: cover;
 }
 
 .slider {
-  background: url("/NGOProject/assets/img/16.jpg") no-repeat;
+  background: url("/assets/img/16.jpg") no-repeat;
   background-size: cover;
   background-position: 10% 0%;
   padding: 100px 0;
@@ -710,7 +710,7 @@ ul.dropdown-menu li {
   content: "";
   left: 0px;
   top: 0px;
-  background: url("/NGOProject/assets/img/image-5.jpg") no-repeat;
+  background: url("/assets/img/image-5.jpg") no-repeat;
   background-size: cover;
   width: 60%;
   height: 100%;
@@ -784,7 +784,7 @@ ul.dropdown-menu li {
   top: 0px;
   width: 100%;
   height: 70%;
-  background: url("/NGOProject/assets/img/banner.jpg") no-repeat;
+  background: url("/assets/img/banner.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -809,7 +809,7 @@ ul.dropdown-menu li {
 }
 
 .bg-counter {
-  background: url("/NGOProject/assets/img/11.jpg") no-repeat;
+  background: url("/assets/img/11.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -998,7 +998,7 @@ ul.dropdown-menu li {
 }
 
 .cta-block {
-  background: url("/NGOProject/assets/img/11.jpg") fixed 50% 50%;
+  background: url("/assets/img/11.jpg") fixed 50% 50%;
   background-size: cover;
   padding: 120px 0px;
 }
